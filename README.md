@@ -1,1 +1,1 @@
-# AdventCalendarOfCode
+# AdventOfCode
